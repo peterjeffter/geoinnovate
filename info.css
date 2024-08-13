@@ -1,7 +1,7 @@
 body{
   font-family: "Source Code Pro", monospace;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 350;
   font-style: normal;
   height: 1500px;
   display: flex;
@@ -14,7 +14,7 @@ body{
   border: none;
   border-radius: 30px;
   height: 1300px;
-  width: 500px;
+  width: 420px;
 }
 .welcome{
   background-image: url(geopic.webp);
@@ -60,7 +60,7 @@ h2{
   height: 400px;
   display: grid;
   grid-template-columns:40% 40%;
-  row-gap: 30px;
+  row-gap: 7%;
   column-gap: 7%;
   justify-content: center;
   padding-bottom: 50px;
@@ -72,7 +72,6 @@ h2{
   position: relative;
   border-radius: 10px;
   cursor: pointer;
-
 }
 .geoone{
   background-image: url(geospatial-analysis.jpg);
