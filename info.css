@@ -3,7 +3,7 @@ body{
   font-optical-sizing: auto;
   font-weight: 350;
   font-style: normal;
-  height: 1500px;
+  height: 1600px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -14,7 +14,7 @@ body{
   border: none;
   border-radius: 30px;
   height: 1300px;
-  width: 400px;
+  width: 370px;
 }
 .welcome{
   background-image: url(geopic.webp);
@@ -37,6 +37,7 @@ body{
   height: 300px;
   background-color:rgb(176, 199, 182);
   color: black;
+  padding-bottom: 50px;
 }
 .about span{
   position: absolute;
@@ -60,8 +61,8 @@ h2{
   height: 400px;
   display: grid;
   grid-template-columns:40% 40%;
-  row-gap: 7%;
-  column-gap: 7%;
+  row-gap: 3%;
+  column-gap: 3%;
   justify-content: center;
   padding-bottom: 50px;
   padding-top: 20px;
@@ -113,7 +114,7 @@ top: 70%;
 display: flex;
 justify-content: center;
 align-items: center;
-padding: 5px;
+padding: 1px;
 }
 .contact{
   width: 100%;
